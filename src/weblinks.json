@@ -1,0 +1,158 @@
+[
+  {
+    "name": "nextstrain",
+    "link": "https://nextstrain.org/"
+  },
+  {
+    "name": "covid19evolution",
+    "link": "https://covid19evolution.net/zh/index.html"
+  },
+  {
+    "name": "ucsc",
+    "link": "https://genome.ucsc.edu/covid19.html"
+  },
+  {
+    "name": "virusgateway",
+    "link": "https://virusgateway.wustl.edu/"
+  },
+  {
+    "name": "ncbi",
+    "link": "https://www.ncbi.nlm.nih.gov/"
+  },
+  {
+    "name": "gisaid",
+    "link": "https://gisaid.org/"
+  },
+  {
+    "name": "cncb",
+    "link": "https://ngdc.cncb.ac.cn/"
+  },
+  {
+    "name": "cov-lineages",
+    "link": "https://cov-lineages.org/index.html"
+  },
+  {
+    "name": "cov-spectrum",
+    "link": "https://cov-spectrum.org/explore/Switzerland/AllSamples/AllTimes"
+  },
+  {
+    "name": "filogeneti",
+    "link": "https://filogeneti.ca/CoVizu/"
+  },
+  {
+    "name": "outbreak",
+    "link": "https://outbreak.info/"
+  },
+  {
+    "name": "stanford",
+    "link": "https://covdb.stanford.edu/"
+  },
+  {
+    "name": "cov2tree",
+    "link": "https://cov2tree.org/"
+  },
+  {
+    "name": "codon2nucleotide",
+    "link": "https://codon2nucleotide.theo.io/"
+  },
+  {
+    "name": "sanger",
+    "link": "https://covid19.sanger.ac.uk/lineages/raw?area=overview"
+  },
+  {
+    "name": "jbloomlab",
+    "link": "https://jbloomlab.github.io/SARS2_RBD_Ab_escape_maps/"
+  },
+  {
+    "name": "covariants",
+    "link": "https://covariants.org/"
+  },
+  {
+    "name": "ccpem",
+    "link": "https://coval.ccpem.ac.uk/"
+  },
+  {
+    "name": "cov-glue",
+    "link": "https://cov-glue.cvr.gla.ac.uk/#/home"
+  },
+  {
+    "name": "covmt",
+    "link": "https://www.cbrc.kaust.edu.sa/covmt/"
+  },
+  {
+    "name": "covglobe",
+    "link": "https://covglobe.org/"
+  },
+  {
+    "name": "observablehq",
+    "link": "https://observablehq.com/@spond/selection-profile"
+  },
+  {
+    "name": "paseq",
+    "link": "http://covidtag.paseq.org/"
+  },
+  {
+    "name": "coronatrend",
+    "link": "https://coronatrend.live/"
+  },
+  {
+    "name": "kaust",
+    "link": "https://grafnet.kaust.edu.sa/assayM/"
+  },
+  {
+    "name": "microreact",
+    "link": "https://microreact.org/project/eDRh8N1gx66onGUvPAsQik-uk-sars-cov-2-2020-02-052022-02-11"
+  },
+  {
+    "name": "covidcg",
+    "link": "https://covidcg.org/?tab=home"
+  },
+  {
+    "name": "covsampler",
+    "link": "https://www.covsampler.net/"
+  },
+  {
+    "name": "penelope",
+    "link": "http://penelope.unito.it/sars-cov-2_detection/"
+  },
+  {
+    "name": "covidtrackerct",
+    "link": "https://covidtrackerct.com/"
+  },
+  {
+    "name": "molnac",
+    "link": "https://www.molnac.unisa.it/BioTools/cov2smt/index.php"
+  },
+  {
+    "name": "sc2dashboard",
+    "link": "https://dataportal.slh.wisc.edu/sc2dashboard"
+  },
+  {
+    "name": "sarscoverage",
+    "link": "https://sarscoverage.org/"
+  },
+  {
+    "name": "covid19dashboard",
+    "link": "https://covid19dashboard.regeneron.com/?tab=Home&subTab=Europe"
+  },
+  {
+    "name": "covid-miner",
+    "link": "https://covid-miner.ifo.it/app/home"
+  },
+  {
+    "name": "lanl",
+    "link": "https://cov.lanl.gov/content/index"
+  },
+  {
+    "name": "covid19genomes",
+    "link": "https://covid19genomes.csiro.au/index.html#"
+  },
+  {
+    "name": "SARS-CoV-2_Mutation_Tracker",
+    "link": "https://users.math.msu.edu/users/weig/SARS-CoV-2_Mutation_Tracker.html"
+  },
+  {
+    "name": "cog-uk",
+    "link": "https://sars2.cvr.gla.ac.uk/cog-uk/"
+  }
+]
